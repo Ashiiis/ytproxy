@@ -1,7 +1,8 @@
 import React, { useEffect, useRef, useState } from 'react';
 
 const videoIds = [
-  'JqfEG8xI_p0', // Replace with your actual video IDs
+  'JqfEG8xI_p0',
+  'uh9pMY45FRA'// Replace with your actual video IDs
   
 ];
 
